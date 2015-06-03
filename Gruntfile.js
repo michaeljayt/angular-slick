@@ -330,8 +330,8 @@ module.exports = function (grunt) {
       },
       dist: {
         files: {
-          '<%= yeoman.dist %>/slick.min.js': [
-            '<%= yeoman.dist %>/slick.js'
+          '<%= yeoman.dist %>/angular-slick.min.js': [
+            '<%= yeoman.dist %>/angular-slick.js'
           ]
         }
       }
